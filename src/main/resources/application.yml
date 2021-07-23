@@ -1,0 +1,10 @@
+server:
+  port: 82
+info:
+  component: Booking Card Service
+spring:
+  application:
+    name: booking-car-service
+  sleuth:
+    sampler:
+      probability: 1.0
